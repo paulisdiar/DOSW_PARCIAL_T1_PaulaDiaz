@@ -30,15 +30,15 @@ Diagrama de contexto
 Parte2
 Identificación de requerimientos 
 FUNCIONALES 
-Implementar busqueda por especie(iterative)
-Implementar busqueda por Refugios
+Busqueda por especie(iterative)
+Busqueda por Refugios(iterative)
 Buscar un animal por especie, rango de edad(Composite)
 NO FUNCIONALES 
 Ser compatible con móvil, tablet y escritorio
 Tener tipografia Arial
 
 Parte 3
-<img width="475" height="283" alt="image" src="https://github.com/user-attachments/assets/4eca90e9-fd3f-4791-b992-131eb9584f14" />
+<img width="466" height="289" alt="image" src="https://github.com/user-attachments/assets/f31b6708-6401-4753-8ab0-a60b10928665" />
 
 
 
