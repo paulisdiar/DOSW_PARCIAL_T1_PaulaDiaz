@@ -59,7 +59,27 @@ Busqueda por especie
 Pantallas creadas con figma 
  Versión web 
 
- <img width="619" height="697" alt="image" src="https://github.com/user-attachments/assets/95695a18-6b90-41b3-8b1c-f1722be3ab67" />
+ <img width="533" height="760" alt="image" src="https://github.com/user-attachments/assets/3bdd8c11-0068-4fa9-b7e3-e6797e0d72a2" />
+ 
+<img width="672" height="625" alt="image" src="https://github.com/user-attachments/assets/cb1f79e1-a691-4794-82a1-74d16849a524" />
+
+
+Parte 5
+
+
+Parte6
+Iterator
+a. Iterator es de comportamiento
+b. Debe usarse en el contexto de ECI Paw Connect porque nos permite recorrer los elementos para que las busquedas que vamos a hacer en el 
+c.
+d.
+
+a.
+b.
+c.
+d.
+
+Parte7
 
 
 
