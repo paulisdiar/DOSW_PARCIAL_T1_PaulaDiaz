@@ -22,13 +22,24 @@ Proyecto corre correctamente
 <img width="785" height="713" alt="image" src="https://github.com/user-attachments/assets/7e57b9c7-ade3-4024-a7e4-88d861b27bae" />
 
 Desarrollo del parcial 
+Parte 1
+Diagrama de contexto
+
 <img width="638" height="602" alt="image" src="https://github.com/user-attachments/assets/d1f3e2e8-7c2d-4ff7-ab88-af988d19b46c" />
 
+Parte2
 Identificación de requerimientos 
 FUNCIONALES 
 Implementar busqueda por especie(iterative)
-Implementar busqueda por rango de edad
+Implementar busqueda por Refugios
 Buscar un animal por especie, rango de edad(Composite)
 NO FUNCIONALES 
 Ser compatible con móvil, tablet y escritorio
 Tener tipografia Arial
+
+Parte 3
+<img width="475" height="283" alt="image" src="https://github.com/user-attachments/assets/4eca90e9-fd3f-4791-b992-131eb9584f14" />
+
+
+
+
