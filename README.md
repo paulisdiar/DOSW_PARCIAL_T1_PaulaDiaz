@@ -26,7 +26,8 @@ Desarrollo del parcial
 Parte 1
 Diagrama de contexto
 
-<img width="638" height="602" alt="image" src="https://github.com/user-attachments/assets/d1f3e2e8-7c2d-4ff7-ab88-af988d19b46c" />
+<img width="579" height="298" alt="image" src="https://github.com/user-attachments/assets/a81ffcef-b370-4f35-9075-70d1f25ab1b6" />
+
 
 Parte2
 Identificación de requerimientos 
@@ -56,7 +57,10 @@ Busqueda por especie
  <img width="978" height="711" alt="image" src="https://github.com/user-attachments/assets/32732260-dde4-4208-b27a-c2971ad5677d" />
 
 Pantallas creadas con figma 
- <img width="304" height="584" alt="image" src="https://github.com/user-attachments/assets/502bd984-a9cb-4512-ad62-facb573dcb77" />
+ Versión web 
+
+ <img width="619" height="697" alt="image" src="https://github.com/user-attachments/assets/95695a18-6b90-41b3-8b1c-f1722be3ab67" />
+
 
 
 
