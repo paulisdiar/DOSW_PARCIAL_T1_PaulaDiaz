@@ -65,7 +65,10 @@ Pantallas creadas con figma
 
 
 Parte 5
+Jira 
+Epica
 
+<img width="1365" height="595" alt="image" src="https://github.com/user-attachments/assets/c8cd2603-c504-4756-b429-4c43437a4511" />
 
 Parte6
 Iterator
