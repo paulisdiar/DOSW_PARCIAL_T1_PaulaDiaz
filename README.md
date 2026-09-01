@@ -46,6 +46,7 @@ Parte 3
 
 
 Parte 4 
+Plantilla de análisis de requerimientos
 
 Busqueda por especie 
 
@@ -54,6 +55,8 @@ Busqueda por especie
  Busqueda por cantidad de animales por Refugio 
  <img width="978" height="711" alt="image" src="https://github.com/user-attachments/assets/32732260-dde4-4208-b27a-c2971ad5677d" />
 
+Pantallas creadas con figma 
+ <img width="304" height="584" alt="image" src="https://github.com/user-attachments/assets/502bd984-a9cb-4512-ad62-facb573dcb77" />
 
 
 
