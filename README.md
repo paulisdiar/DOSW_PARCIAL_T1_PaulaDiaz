@@ -23,3 +23,12 @@ Proyecto corre correctamente
 
 Desarrollo del parcial 
 <img width="638" height="602" alt="image" src="https://github.com/user-attachments/assets/d1f3e2e8-7c2d-4ff7-ab88-af988d19b46c" />
+
+Identificación de requerimientos 
+FUNCIONALES 
+Implementar busqueda por especie(iterative)
+Implementar busqueda por rango de edad
+Buscar un animal por especie, rango de edad(Composite)
+NO FUNCIONALES 
+Ser compatible con móvil, tablet y escritorio
+Tener tipografia Arial
