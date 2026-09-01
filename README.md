@@ -1,6 +1,7 @@
 # DOSW_PARCIAL_T1_PaulaDiaz
 Paula Alejandra Díaz Arredondo
 Grupo1
+Tema1
 https://github.com/paulisdiar/Bitacora.git
 
 Estructura carpetas 
@@ -19,3 +20,6 @@ Acceso a Figma
 Proyecto corre correctamente
 
 <img width="785" height="713" alt="image" src="https://github.com/user-attachments/assets/7e57b9c7-ade3-4024-a7e4-88d861b27bae" />
+
+Desarrollo del parcial 
+<img width="638" height="602" alt="image" src="https://github.com/user-attachments/assets/d1f3e2e8-7c2d-4ff7-ab88-af988d19b46c" />
