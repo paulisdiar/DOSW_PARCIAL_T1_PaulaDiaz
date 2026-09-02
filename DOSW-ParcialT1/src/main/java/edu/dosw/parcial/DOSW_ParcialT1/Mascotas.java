@@ -10,7 +10,7 @@ public class Mascotas {
     private String id;
     private boolean compatibilidad;
 
-    public Mascotas(String id, String nombre, Especie especie, int edad, Tamano tamano, boolean compatibilidad,
+    public Mascotas(String id, String nombre, Especie especie, int edad, Tamaño tamaño, boolean compatibilidad,
                     {
 
         this.id = id;
