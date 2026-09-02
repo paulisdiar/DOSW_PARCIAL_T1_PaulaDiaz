@@ -91,6 +91,7 @@ d.
 Parte7
 
 
+<img width="1360" height="720" alt="image" src="https://github.com/user-attachments/assets/2a3fa67d-626c-4c41-b433-211c644fdc60" />
 
 
 
