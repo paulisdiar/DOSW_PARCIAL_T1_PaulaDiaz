@@ -65,17 +65,26 @@ Pantallas creadas con figma
 
 
 Parte 5
+Jira 
+Epica
 
+<img width="1365" height="595" alt="image" src="https://github.com/user-attachments/assets/c8cd2603-c504-4756-b429-4c43437a4511" />
 
 Parte6
+
 Iterator
-a. Iterator es de comportamiento
-b. Debe usarse en el contexto de ECI Paw Connect porque nos permite recorrer los elementos para que las busquedas que vamos a hacer en el 
+
+a. Iterator es un patron de comportamiento
+
+b. Debe usarse en el contexto de ECI Paw Connect porque nos permite hacer distintas busquedas sin exponer la estructura interna
 c.
+
 d.
 
-a.
-b.
+a.Composite es un patron estructural
+
+b.Kos refugios están organizados jerarquicamente por red, ciudad y refugio. Este patrón permite tratar un refugio individual y una agrupación de refugios de la misma manera
+
 c.
 d.
 
